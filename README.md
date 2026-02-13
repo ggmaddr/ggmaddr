@@ -29,6 +29,79 @@
 
 ---
 
+## 🌟 Featured Projects
+### 🏃‍♂️ [MotionCoach – Advanced Sensor Fusion & ML Activity Tracker](https://github.com/ggmaddr/CoreML-MotionCoach---Advanced-Activity-Tracking-App)
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
+![CoreML](https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white)
+![CoreMotion](https://img.shields.io/badge/CoreMotion-FF2D55?style=flat-square&logo=apple&logoColor=white)
+![MapKit](https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=apple&logoColor=white)
+
+**Production-grade iOS fitness tracker** powered by real-time sensor fusion and on-device ML classification  
+
+✅ **85% activity classification accuracy** (CoreML model) | **50% route accuracy improvement** via Kalman Filtering | GPS + accelerometer + gyroscope fusion | On-device inference (no cloud dependency)
+
+
+### 🤖 [Autonomous Traders Lab](https://github.com/ggmaddr/Autonomous-Traders-Lab)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Multi-agent AI trading system** with 8 collaborative AI agents  
+✅ **37% better** decision quality | **55% cost reduction** | **4× faster** execution (0.6s) | **99.9% uptime**
+
+
+
+### ♻️ [AI Trash Sorting](https://github.com/realdarter/Trash-Classification)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![ML](https://img.shields.io/badge/ResNet--50-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**ML-powered waste classification** using CNN-based ResNet-50  
+✅ **98% accuracy** | 5+ waste types | Flask backend | Kaggle dataset integration
+
+
+
+### 💬 [Cipher Chat](https://github.com/ggmaddr/CipherChat)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Real-time messaging app** with ChatGPT-4.0 bot integration  
+✅ WebSocket | Prisma | GraphQL API | 3D UI with Three.js
+
+
+
+### 🧩 [Automatic A* Puzzle Solver](https://github.com/ggmaddr/AI-Computer-Vision-Water-Puzzle-Solver-)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Robotic puzzle solver** with computer vision & A* pathfinding  
+✅ **2 second** max solve time | **70% search space reduction** | 100% accuracy
+
+
+
+### 💰 [Real-Time Crypto Tracker](https://github.com/ggmaddr/crypto-real-time)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Full-stack cryptocurrency tracking** platform  
+✅ CoinGecko API integration | Real-time data | MySQL backend
+
+
+
+### 🎮 [3D FPS Shooting Legends](https://github.com/ggmaddr/3D-FPS-Shooting-Legends/tree/main)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
+
+**3D FPS game** with AI-controlled enemies  
+✅ Unreal Engine 5 | Dynamic particle effects | Autonomous AI
+
+---
+
 ## 💼 Highlights of Professional Experience
 
 ### 🏢 **Centric Software** *(Dassault Systèmes)*
@@ -115,75 +188,4 @@
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
----
-
-## 🌟 Featured Projects
-### 🏃‍♂️ [MotionCoach – Advanced Sensor Fusion & ML Activity Tracker](https://github.com/ggmaddr/CoreML-MotionCoach---Advanced-Activity-Tracking-App)
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
-![CoreML](https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white)
-![CoreMotion](https://img.shields.io/badge/CoreMotion-FF2D55?style=flat-square&logo=apple&logoColor=white)
-![MapKit](https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=apple&logoColor=white)
-
-**Production-grade iOS fitness tracker** powered by real-time sensor fusion and on-device ML classification  
-
-✅ **85% activity classification accuracy** (CoreML model) | 50% route accuracy improvement** via Kalman Filtering | Real-time GPS + accelerometer + gyroscope fusion | On-device inference (privacy-first, no cloud dependency)
----
-### 🤖 [Autonomous Traders Lab](https://github.com/ggmaddr/Autonomous-Traders-Lab)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Multi-agent AI trading system** with 8 collaborative AI agents  
-✅ **37% better** decision quality | **55% cost reduction** | **4× faster** execution (0.6s) | **99.9% uptime**
-
----
-
-### ♻️ [AI Trash Sorting](https://github.com/realdarter/Trash-Classification)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![ML](https://img.shields.io/badge/ResNet--50-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**ML-powered waste classification** using CNN-based ResNet-50  
-✅ **98% accuracy** | 5+ waste types | Flask backend | Kaggle dataset integration
-
----
-
-### 💬 [Cipher Chat](https://github.com/ggmaddr/CipherChat)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-**Real-time messaging app** with ChatGPT-4.0 bot integration  
-✅ WebSocket | Prisma | GraphQL API | 3D UI with Three.js
-
----
-
-### 🧩 [Automatic A* Puzzle Solver](https://github.com/ggmaddr/AI-Computer-Vision-Water-Puzzle-Solver-)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Robotic puzzle solver** with computer vision & A* pathfinding  
-✅ **2 second** max solve time | **70% search space reduction** | 100% accuracy
-
----
-
-### 💰 [Real-Time Crypto Tracker](https://github.com/ggmaddr/crypto-real-time)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Full-stack cryptocurrency tracking** platform  
-✅ CoinGecko API integration | Real-time data | MySQL backend
-
----
-
-### 🎮 [3D FPS Shooting Legends](https://github.com/ggmaddr/3D-FPS-Shooting-Legends/tree/main)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
-
-**3D FPS game** with AI-controlled enemies  
-✅ Unreal Engine 5 | Dynamic particle effects | Autonomous AI
 
