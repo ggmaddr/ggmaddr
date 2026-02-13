@@ -112,12 +112,24 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🎮 Game Development
+
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
+### 🏃‍♂️ [MotionCoach – Advanced Sensor Fusion & ML Activity Tracker](https://github.com/ggmaddr/CoreML-MotionCoach---Advanced-Activity-Tracking-App)
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
+![CoreML](https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white)
+![CoreMotion](https://img.shields.io/badge/CoreMotion-FF2D55?style=flat-square&logo=apple&logoColor=white)
+![MapKit](https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=apple&logoColor=white)
+
+**Production-grade iOS fitness tracker** powered by real-time sensor fusion and on-device ML classification  
+
+✅ **85% activity classification accuracy** (CoreML model) | 50% route accuracy improvement** via Kalman Filtering | Real-time GPS + accelerometer + gyroscope fusion | On-device inference (privacy-first, no cloud dependency)
+---
 ### 🤖 [Autonomous Traders Lab](https://github.com/ggmaddr/Autonomous-Traders-Lab)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
