@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2600&pause=1200&color=FF3CAC&center=true&vCenter=true&repeat=false&width=720&height=60&lines=%3E+GRADY+TA_" alt="GRADY TA" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=2800&pause=1200&color=2DE2E6&center=true&vCenter=true&width=820&height=50&lines=ai+engineering+%7C+distributed+system;certified+AWS+developer+%7C+Certified+Claude+Solution+Architect" alt="ai engineering | distributed system — certified AWS developer | Certified Claude Solution Architect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=2800&pause=1200&color=2DE2E6&center=true&vCenter=true&width=820&height=50&lines=ai+engineering+%7C+distributed+system;Certified+AWS+Developer+%7C+Certified+Claude+Solution+Architect" alt="ai engineering | distributed system — Certified AWS Developer | Certified Claude Solution Architect" />
 
 <a href="https://gradyta.netlify.app" target="_blank">
   <img src="./assset/porfolio.png" alt="Portfolio preview — cyber retro pixel theme" width="640" />
